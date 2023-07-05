@@ -1,0 +1,2 @@
+geonav_transform:handsfree_ros_imu:henes_car_control:m_car:rplidar_ros:ublox_f9p/ntrip_ros:ublox_f9p/rtcm_msgs:ublox_f9p/ublox:ublox_f9p/ublox_gps:ublox_f9p/ublox_msgs:ublox_f9p/ublox_serialization:yu_pkg
+-DCATKIN_DEVEL_PREFIX=/home/ros/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ros/catkin_ws/install -G Unix Makefiles
